@@ -17,7 +17,7 @@ function App() {
         </a>
       </div>
       <h1>E-com System 3.0.0 fixed bug (add login page)(update label cart button)(add grid ui) (Send auto Email)</h1>
-      <h1>(trigger an email after successfull registration)</h1>
+      <h1>(trigger an email after successfull registration) (customize email content for each status update)</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
